@@ -5,7 +5,7 @@ import servicemanager
 import psutil
 import time
 
-BLOCKED_APPS = ["Discord.exe"]
+BLOCKED_APPS = ["Discord.exe", "FortniteClient-Win64-Shipping.exe"]
 BLOCKED_SITES = [
     "www.twitch.tv",
     "www.youtube.com"
